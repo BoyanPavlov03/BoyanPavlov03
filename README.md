@@ -9,4 +9,4 @@
 
 <!-- - 👯 I’m looking to collaborate on -->
 
-[![BoyanPavlov03's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoyanPavlov03)](https://github.com/BoyanPavlov03/github-readme-stats)
+[![BoyanPavlov03's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoyanPavlov03)]
